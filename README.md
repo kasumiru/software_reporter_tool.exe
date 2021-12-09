@@ -1,2 +1,3 @@
-# software_reporter_tool.exe
-software_reporter_tool.exe blocker. usage cygwin
+# software_reporter_tool.exe blocker 
+
+This script block software_reporter_tool.exe for running. Cygwin mast be installed.
